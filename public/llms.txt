@@ -1,6 +1,4 @@
-# ג'ו ויסטריך — Generative Engine Optimization Map
-
-> A בריאות ורפואה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ג'ו ויסטריך
-ג'ו ויסטריך is a business in the בריאות ורפואה industry.
-
-## Target Audience
-- ספורטאים בתהליך שיקום
-- מטופלים מבוגרים
-- מטופלים אחרי ניתוח
-
-## Industry
-בריאות ורפואה
-
+## About Business
 ---
 
 # Additional Resources
